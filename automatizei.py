@@ -7,7 +7,7 @@ import pygetwindow as gw
 import customtkinter as ctk
 import psutil
 from tkinter import messagebox
-
+ 
 
 # Caminho do arquivo JSON
 arquivo_dados = "banco_dados.json"
